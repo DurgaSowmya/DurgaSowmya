@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Durga Sowmya Kollipara</h1>
-<h3 align="center">A passionate developer from India with interest for solving problems and building robust solutions. Whether it’s tackling complex challenges with Java, exploring data with Python, or crafting dynamic web projects with the MERN Stack, I thrive on innovation and turning challenges into opportunities!</h3>
+<h3 align="center">A passionate developer  with interest for solving problems and building robust solutions. Whether it’s tackling complex challenges with Java, exploring data with Python, or crafting dynamic web projects with the MERN Stack, I thrive on innovation and turning challenges into opportunities!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgasowmya&label=Profile%20views&color=0e75b6&style=flat" alt="durgasowmya" /> </p>
 
